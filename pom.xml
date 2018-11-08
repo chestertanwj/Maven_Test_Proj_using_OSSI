@@ -24,8 +24,8 @@
 
   <dependencies>
 	<dependency>
-	    <groupId>io.pivotal.spring.cloud</groupId>
-	    <artifactId>spring-cloud-sso-connector</artifactId>
+	    <groupId>api-ldap-model</groupId>
+	    <artifactId>org.apache.directory.api</artifactId>
 	    <version>2.1.2.RELEASE</version>
 	</dependency>
   </dependencies>
